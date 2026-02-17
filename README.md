@@ -114,9 +114,68 @@ As the **Lead Developer**, I was responsible for the complete development lifecy
 ---
 
 ## 📐 Project Structure
-nauticalarmor.com/
-nauticalarmor.com/\n│\n├── 🏠 Homepage (Dynamic Video Header)\n│\n├── 📦 Products (Custom Post Type)\n│   ├── 🔩 Bolt-on Anodes (BLT)\n│   ├── 🔥 Weld-on Anodes (WLD)\n│   ├── ⚙️ Propeller Anodes (PRP)\n│   ├── 🎯 Rudder Anodes\n│   ├── 📊 Shaft Anodes\n│   └── 🔧 Engine Anodes (Pencil Zincs)\n│\n├── 📚 Knowledge Hub (Blog)\n│   ├── 🔬 Galvanic Corrosion Explained\n│   ├── 📝 Anode Selection Guides\n│   ├── ⏱️ Maintenance Schedules\n│   └── 🆕 Industry News\n│\n├── 🏭 Behind the Scenes\n│   ├── 🏗️ Production Process\n│   ├── 🔍 Quality Control\n│   ├── 📦 Packing\n│   └── 🚢 Global Shipments\n│\n├── 📄 Technical Resources\n│   ├── 📐 Specification Diagrams\n│   ├── 📑 PDF Catalogs\n│   └── 📊 Material Guides\n│\n└── 📞 Contact\n    ├── 📍 Global Partners Map\n    ├── 📧 Inquiry Forms\n    └── 📋 Distributor Information
 
+nauticalarmor.com/
+│
+
+├── 🏠 Homepage (Dynamic Video Header)
+│
+
+├── 📦 Products (Custom Post Type)
+
+│   ├── 🔩 Bolt-on Anodes (BLT)
+
+│   ├── 🔥 Weld-on Anodes (WLD)
+
+│   ├── ⚙️ Propeller Anodes (PRP)
+
+│   ├── 🎯 Rudder Anodes
+
+│   ├── 📊 Shaft Anodes
+
+│   └── 🔧 Engine Anodes (Pencil Zincs)
+
+│
+├── 📚 Knowledge Hub (Blog)
+
+│   ├── 🔬 Galvanic Corrosion Explained
+
+│   ├── 📝 Anode Selection Guides
+
+│   ├── ⏱️ Maintenance Schedules
+
+│   └── 🆕 Industry News
+
+│
+
+├── 🏭 Behind the Scenes
+
+│   ├── 🏗️ Production Process
+
+│   ├── 🔍 Quality Control
+
+│   ├── 📦 Packing
+
+│   └── 🚢 Global Shipments
+
+│
+
+├── 📄 Technical Resources
+
+│   ├── 📐 Specification Diagrams
+
+│   ├── 📑 PDF Catalogs
+
+│   └── 📊 Material Guides
+
+│
+└── 📞 Contact
+
+├── 📍 Global Partners Map
+
+├── 📧 Inquiry Forms
+
+└── 📋 Distributor Information
 
 
 ---
