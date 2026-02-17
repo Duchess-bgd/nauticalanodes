@@ -352,15 +352,7 @@ All screenshots are available in the `/screenshots` folder. Below is a preview o
 |   <img src="/screenshots/03-product-detail.png" width="200">   | **🔧 Product Detail**     | Individual product page with specs and diagrams               |
 |        <img src="/screenshots/04-CAT.png" width="200">         | **📐 CAT **               | Special Call to action Page                                   |
 |    <img src="/screenshots/05-blog-article.png" width="200">    | **📚 Blog Article**       | Educational content about galvanic corrosion                  |
-|     <img src="/screenshots/06-production.png" width="200">     | **🏭 Production**         | Behind-the-scenes manufacturing photos                        |
-|  <img src="/screenshots/07-quality-control.png" width="200">   | **🔍 Quality Control**    | Founder inspecting anodes before packing                      |
-|      <img src="/screenshots/08-packing.png" width="200">       | **📦 Packing**            | Organized boxing with custom compartments                     |
-|      <img src="/screenshots/09-shipment.png" width="200">      | **🚢 Shipment**           | Palletized orders ready for global delivery                   |
-|  <img src="/screenshots/10-shipment-detail.png" width="200">   | **📍 Shipment Detail**    | Shipping labels to USA and Europe                             |
-|    <img src="/screenshots/11-pdf-catalog.png" width="200">     | **📑 PDF Catalog**        | Downloadable best-selling products catalog                    |
 |    <img src="/screenshots/12-mobile-view.png" width="200">     | **📱 Mobile View**        | Perfect responsive design on mobile devices                   |
-| <img src="/screenshots/13-elementor-template.png" width="200"> | **⚙️ Elementor Template** | Custom template structure for products                        |
-
 ---
 
 ## 📥 Installation / Import
