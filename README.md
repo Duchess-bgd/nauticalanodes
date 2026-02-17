@@ -115,7 +115,7 @@ As the **Lead Developer**, I was responsible for the complete development lifecy
 
 ## 📐 Project Structure
 
-nauticalarmor.com/
+nauticalarmor.com
 
 │
 ├── 🏠 Homepage (Dynamic Video Header)
