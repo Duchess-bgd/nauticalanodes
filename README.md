@@ -119,59 +119,34 @@ nauticalarmor.com
 
 │
 ├── 🏠 Homepage (Dynamic Video Header)
-
 │ ├── 📦 Products (Custom Post Type)
-
 │ ├── 🔩 Bolt-on Anodes (BLT)
-
 │ ├── 🔥 Weld-on Anodes (WLD)
-
 │ ├── ⚙️ Propeller Anodes (PRP)
-
 │ ├── 🎯 Rudder Anodes
-
 │ ├── 📊 Shaft Anodes
-
 │ └── 🔧 Engine Anodes (Pencil Zincs)
-
 │
 ├── 📚 Knowledge Hub (Blog)
-
 │ ├── 🔬 Galvanic Corrosion Explained
-
 │ ├── 📝 Anode Selection Guides
-
 │ ├── ⏱️ Maintenance Schedules
-
 │ └── 🆕 Industry News
-
 │
 ├── 🏭 Behind the Scenes
-
 │ ├── 🏗️ Production Process
-
 │ ├── 🔍 Quality Control
-
 │ ├── 📦 Packing
-
 │ └── 🚢 Global Shipments
-
 │
 ├── 📄 Technical Resources
-
 │ ├── 📐 Specification Diagrams
-
 │ ├── 📑 PDF Catalogs
-
 │ └── 📊 Material Guides
-
 │
 └── 📞 Contact
-
 ├── 📍 Global Partners Map
-
 ├── 📧 Inquiry Forms
-
 └── 📋 Distributor Information
 
 
